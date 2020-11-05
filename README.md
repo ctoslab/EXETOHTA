@@ -2,11 +2,11 @@
 
 This tool will convert EXE file to HTA extension it's very simple to use, and a lot faster.
 
-<img src="screenshots/Start.jpg" width=400 align="center">
+<img src="screenshots/Start.png" width=400 align="center">
 
-<img src="screenshots/Payload.jpg" width=400 align="center">
+<img src="screenshots/Payload.png" width=400 align="center">
 
-<img src="screenshots/Finish.jpg" width=400 align="center">
+<img src="screenshots/Finish.png" width=400 align="center">
 
 ### ❗ What is this ?
 
