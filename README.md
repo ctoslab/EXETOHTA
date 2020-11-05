@@ -1,4 +1,4 @@
-### Welcome to EXE>HTA Converter tool version 1.00
+### Welcome to EXE>HTA Converter tool version 1.0
 
 This tool will convert EXE file to HTA extension it's very simple to use, and a lot faster.
 
