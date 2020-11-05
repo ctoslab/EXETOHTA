@@ -10,7 +10,7 @@ This tool will convert EXE file to HTA extension it's very simple to use, and a 
 
 ### ❗ What is this ?
 
-EXE>HTA is a tool that automate procedures during converting a payload from EXE into HTA extension. It works with njRAT & Metasploit and someother RAT's. This tool was made for Windows users.
+EXE>HTA is a tool that automate procedures during converting a payload from EXE into HTA extension. It works with njRAT & Metasploit and some other RAT's. This tool was made for Windows users.
 
 Video Proof: https://youtu.be/3xzOEhswhnw
 
