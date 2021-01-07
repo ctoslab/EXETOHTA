@@ -12,7 +12,7 @@ This tool will convert EXE file to HTA extension it's very simple to use, and a 
 
 EXE>HTA is a tool that automate procedures during converting a payload from EXE into HTA extension. It works with njRAT & Metasploit and some other RAT's. This tool was made for Windows users.
 
-Video Proof: https://youtu.be/3xzOEhswhnw
+Video Proof (To see this video you need to subscribe first and send me your e-mail address in https://t.me/ctoslab): https://youtu.be/3xzOEhswhnw
 
 ### ⚙️ FEATURES
 
@@ -36,7 +36,7 @@ IMPORTANT! pip install throwbin
 8. Select your payload.exe path
 9. press CONVERT button.
 
-To learn more please watch this video: https://youtu.be/3xzOEhswhnw
+To learn more please watch this video (To see this video you need to subscribe first and send me your e-mail address in https://t.me/ctoslab): https://youtu.be/3xzOEhswhnw
 
 ### 📡 HOW TO UPDATE
 
